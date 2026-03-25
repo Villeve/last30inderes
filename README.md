@@ -4,6 +4,19 @@ Selvitä mitä suomalainen sijoittajayhteisö keskustelee [Inderes-foorumilla](h
 
 Claude Code -skill joka hakee keskusteluja suoraan Discourse JSON API:sta ja syntetisoi katsauksen.
 
+## Miksi?
+
+Inderes-foorumilla on yli 70 000 suomalaista sijoittajaa jotka keskustelevat aktiivisesti yhtiöistä, markkinoista ja sijoitusstrategioista. Foorumi on arvokas pulssimittari sille mitä yksityissijoittajat oikeasti ajattelevat — mutta satojen viestien läpikäynti käsin on hidasta.
+
+Tällä skillillä voit esimerkiksi:
+
+- **Ennen ostopäätöstä**: "Mitä muut sijoittajat ajattelevat Fortumista juuri nyt? Onko jotain mitä en ole huomannut?"
+- **Tuloskauden aikana**: "Miten yhteisö reagoi Nesteen Q4-tulokseen? Mikä yllätti?"
+- **Trendien seuranta**: "Puhutaanko tekoälystä vielä vai onko hype laantunut?"
+- **Uuden aiheen tutkiminen**: "En tiedä korkosijoittamisesta mitään — mistä foorumilla keskustellaan?"
+
+Skill tiivistää kymmeniä tai satoja viestejä muutaman kappaleen katsaukseksi suorine lainauksineen ja linkkeineen, jotta voit nopeasti hahmottaa yhteisön tunnelman ja porautua kiinnostaviin keskusteluihin.
+
 ## Käyttö
 
 ```
